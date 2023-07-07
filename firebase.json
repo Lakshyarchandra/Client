@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "Client_side",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
